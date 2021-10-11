@@ -1,4 +1,3 @@
-# Quantium-Data-Analytics-Virtual-Experience-Program
 # Quantium Virtual Experience Program in Data Analytics
 
 - This is program consists of 3 tasks 
